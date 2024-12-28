@@ -1,0 +1,6 @@
+# 聚合支付/运营版/新增USDT支付/通道轮询/免签约支付系统/33支付插件/开源版
+
+【本店所有商品24小时自动发货】<br>example.com<br>example.com！本店均不参与任何运营行为<br>example.com：服务器环境配置、系统安装、网站调试（如需要请跟客服提前沟通好）<br>example.com，不得使用于非法用途，不得违反国家法律，否则后<br>果自负！购买以后用作他用附带的一切法律责任后果都由购买者承担于本店无任何关系！<br>本店承接一条龙搭建服务【包服务器/包域名/包宝塔配置/包搭建/包封装APP】<br>演示站<br>前台地址：http://example.com/<br>前台账号：1000<br>前台密码：vV9rPSe9spZ85Cb93v9QBsWWPbU55nfQ<br>后台地址：http://example.com/admin<br>后台账号：admin<br>后台密码：123456<br>新增：2024/6/1新增USDT支付<br>系统简介<br>1、易支付API接口；<br>2、支持设置快捷登录；<br>3、注册开户可设置免费或者收费；<br>4、网站自带测试接口，可以自定义配置对接信息;<br>5、支持设置开启QQ，微信，支付宝，银行卡结算；<br>6、网站自带开发文档、SDK demo<br>7、设置自定义订单名称，时间戳、用户QQ号<br>8、设置关键词屏蔽，黑名单等<br>9、后台可查看被拦截的订单记录，商户号，拦截类型，网址和内容<br>10、更新首页UI，具体可查看演示站<br>11、新增用户注册审核功能<br>12、33支付插件、更新插件结构<br>13、通道增加商户直清功能<br>14、回调专用网址、用户对接网址<br>15、授权支付域名添加<br>16、电脑网站支付使用扫码模式<br>17、支付IP黑名单<br>18、多种认证方式<br>19、支付通道新增今日收款统计<br><br>
+
+
+<p style="color: red;">源代码下载地址：<a href="https://mega-file.org/4hNdd" style="color: red;">https://mega-file.org/4hNdd</a></p><p style="color: red;"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram Icon" style="width: 16px; vertical-align: middle; margin-right: 5px;">Telegram:<a href="https://t.me/official_sourcecode" style="color: red;">@official_sourcecode</a></p>
